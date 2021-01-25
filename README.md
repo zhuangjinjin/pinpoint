@@ -7,12 +7,12 @@
 
 **Visit [our official web site](https://pinpoint-apm.github.io/pinpoint/) for more information and [Latest updates on Pinpoint](https://pinpoint-apm.github.io/pinpoint/news.html)**.
 
-## Latest Release (2020/12/02)
+## Latest Release (2020/01/21)
 
-We're happy to announce the release of Pinpoint v2.2.0.
-Please check the release note at (https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.0).
+We're happy to announce the release of Pinpoint v2.2.1.
+Please check the release note at (https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.1).
 
-The current stable version is [v2.2.0](https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.0).
+The current stable version is [v2.2.1](https://github.com/pinpoint-apm/pinpoint/releases/tag/v2.2.1).
 
 ## Live Demo
 
@@ -64,7 +64,7 @@ For a more intimate guide, please check out our *[Introduction to Pinpoint](http
 * Spring, Spring Boot (Embedded Tomcat, Jetty, Undertow), Spring asynchronous communication
 * Apache HTTP Client 3.x/4.x, JDK HttpConnector, GoogleHttpClient, OkHttpClient, NingAsyncHttpClient, Akka-http, Apache CXF
 * Thrift Client, Thrift Service, DUBBO PROVIDER, DUBBO CONSUMER, GRPC
-* ActiveMQ, RabbitMQ, Kafka
+* ActiveMQ, RabbitMQ, Kafka, RocketMQ
 * MySQL, Oracle, MSSQL(jtds), CUBRID, POSTGRESQL, MARIA
 * Arcus, Memcached, Redis([Jedis](https://github.com/pinpoint-apm/pinpoint/blob/master/plugins/redis), [Lettuce](https://github.com/pinpoint-apm/pinpoint/tree/master/plugins/redis-lettuce)), CASSANDRA, MongoDB, Hbase, Elasticsearch
 * iBATIS, MyBatis
